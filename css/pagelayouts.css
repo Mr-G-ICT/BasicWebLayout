@@ -1,0 +1,68 @@
+/* divide the top bar into left and right so that the elements space correctly */
+#leftmast{
+ float:left;
+ margin: 0;
+ width:22%;
+ height:120px;
+ background: #fff url(../images/headerback.jpg) no-repeat bottom left;
+ }
+
+#rightmast{
+ background: #fff url(../images/logo.jpg) no-repeat top right;
+ float:right;
+ margin: 0;
+ width:78%;
+ height:120px;
+
+ }
+
+#topmenu{
+border-top: 6px solid #800000;
+float:left;
+background: #9FB8E0;
+width:100%;
+height:50;
+}
+
+
+ #leftsidebar{
+  float:left;
+  margin:0;
+  padding-left:10px;
+  width:180;
+}
+
+/*float:left;
+ border:1px solid #000;
+  margin:0;
+  width:200;
+  height:100%;
+  background-image: url(background.png);*/
+
+#content{
+ float:left;
+ width:50%;
+ padding: 10px;
+
+ }
+ 
+#rightsidebar{
+ float:right;
+ vertical-align:top;
+ width:275;
+}
+
+#footer{
+ float: left;
+ width:100%;
+ height:100;
+ font-size:90%
+ padding:10px;
+ background-color:  #9FB8E0;
+ text-align:right;
+}
+
+body{
+ background:url(../images/bgfiller.gif) repeat-y left;
+}
+

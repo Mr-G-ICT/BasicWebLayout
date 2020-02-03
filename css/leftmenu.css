@@ -1,0 +1,49 @@
+/*links on the side of the page */
+A.leftmenu:Link {font-family:Veranda, Tahoma, Arial , Helvetica;
+	color:000000;
+	font-size:8pt;
+	font-weight:bold;
+	text-decoration:none;
+  padding: 0 0 0 15px;
+  line-height: 150%;
+  background:url(../images/img1.gif) no-repeat left center;
+	}
+
+A.leftmenu:Visited {
+    font-family:Veranda, Tahoma, Arial , Helvetica;
+	color:000000;
+	font-size:8pt;
+	font-weight:bold;
+	text-decoration:none;
+    padding: 0 0 0 15px;
+    line-height: 150%;
+    background:url(../images/img1.gif) no-repeat left center;
+	}
+
+A.leftmenu:Hover {
+    font-family:Veranda, Tahoma, Arial , Helvetica;
+	color:9e0d1a;
+	font-size:8pt;
+	font-weight:bold;
+	text-decoration:none;
+    padding: 0 0 0 15px;
+    line-height: 150%;
+    background:url(../images/img1.gif) no-repeat left center;
+	}
+
+A.leftmenu:Active {font-family:Veranda, Tahoma, Arial , Helvetica;
+	color:000000;
+	font-size:8pt;
+	text-decoration:none;
+  padding: 0 0 0 15px;
+  line-height: 150%;
+  background:url(../images/mi.gif) no-repeat left center;
+}
+
+ 
+ul, li.leftmenu{
+  list-style-type:none;
+  margin: 0;
+  width:160px;
+  padding:2px;
+  }

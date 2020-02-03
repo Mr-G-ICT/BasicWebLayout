@@ -1,0 +1,45 @@
+.rightbox   {
+    border: 1px solid #888888;
+	font-weight:bold;
+	font-family: Arial ,Veranda, Tahoma, Helvetica;
+	color:#000000;
+	text-decoration:none; 
+	}
+
+.righthead  {
+    border: 1px solid #888888;
+	font-weight:bold;
+	font-size: 10pt;
+	font-family: Arial ,Veranda, Tahoma, Helvetica;
+	color:#FFFFFF;
+	text-decoration:none;
+    background: #fff url(../images/rightside_area_header.jpg);
+	}
+	
+a.rightlink:Link {
+    font-family:Arial,Veranda,Tahoma,Helvetica;
+	color:202070;
+	font-size:100%;
+	font-weight:normal;
+	text-decoration:none;}
+
+a.rightlink:Visited {
+    font-family:Arial,Veranda,Tahoma,Helvetica;
+	color:202070;
+	font-size:100%;
+	font-weight:normal;
+	text-decoration:none;}
+
+A.rightlink:Hover {
+    font-family:Arial,Veranda,Tahoma,Helvetica;
+	color:008000;
+	font-size:100%;
+	font-weight:normal;
+	text-decoration:underline;}
+
+A.rightlink:Active {
+    font-family:Arial,Veranda,Tahoma,Helvetica;
+	color:202070;
+	font-size:100%;
+	font-weight:normal;
+	text-decoration:none;}
